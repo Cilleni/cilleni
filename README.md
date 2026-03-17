@@ -1,17 +1,28 @@
-# Olá, eu sou Cilleni Caetano 👋
+# Olá, eu sou Cilleni 👋
 
-💻 Desenvolvedor de Software | Analista de Sistemas
+Sou desenvolvedor de software e gosto de criar soluções práticas, organizadas e funcionais.
 
-## 🚀 Tecnologias e interesses
+Atualmente estudo e desenvolvo projetos com foco em sistemas web, automação de processos e organização de informações.
 
-- Python - Django - JavaScript - HTML - PHP - Delphi - React Native - SQL - Firebird - MySQL
-- PostgreSQL
+## 🚀 Tecnologias que fazem parte do meu dia a dia
 
-## 🌱 Atualmente estudando
-
-- APIs com Python
+- Python
 - Django
-- Desenvolvimento mobile
-- Estruturação de sistemas SaaS
-- Boas práticas de desenvolvimento
+- JavaScript
+- HTML
+- PHP
+- Delphi
+- SQL
+- PostgreSQL
+- MySQL
+- Firebird
 
+## 🌱 Atualmente focado em
+
+- Desenvolvimento web
+- APIs com Python
+- Sistemas SaaS
+- Boas práticas de arquitetura
+- Evolução para projetos mobile
+
+ 
